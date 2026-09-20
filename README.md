@@ -43,7 +43,7 @@ $$QED$$
 Every rational Hodge class is contained within the algebraic span $A$, completing the structural reduction.
 
 <div align="center">
-<img src="https://github.com/AEjonanonymous/Hodge-Conjecture/blob/main/docs/hodge_plot.png" height="725" width="725px">
+<img src="https://github.com/AEjonanonymous/Hodge-Conjecture/blob/main/docs/hodge_plot.png" height="675" width="675">
 </div>
 
 
