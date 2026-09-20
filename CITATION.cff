@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "A Structural Reduction of the Hodge Conjecture in Lean 4 via Mumford-Tate Weight Gradings and Hodge-Riemann Bilinear Relations"
+version: 1.0.0
+doi: 10.5281/zenodo.22848576
+date-released: 2026-09-19
